@@ -15,7 +15,6 @@ AxelNode Intercom Identity:
 TRAC Address:
 trac1ldy25wuhv7vh6lxkp3vzmcc47y9wy25xr88gp32amtpxgn0hc8vqr5evd5
 
-Replace the placeholder above with your official Trac peer address.
 
 ---
 
